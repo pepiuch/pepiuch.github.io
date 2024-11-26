@@ -18,6 +18,12 @@
     "classRoom": "B5"
   },
   {
+    "timeFrameId": 10,
+    "day": 0,
+    "subject": "WF",
+    "classRoom": "F"
+  },
+  {
     "day": 1,
     "timeFrameId": 3,
     "subject": "j. ang.",

@@ -130,5 +130,11 @@
     "timeFrameId": 4,
     "subject": "wf",
     "classRoom": "F"
+  },
+  {
+    "timeFrameId": 7,
+    "day": 4,
+    "subject": "HappyR",
+    "classRoom": "B5"
   }
 ]
